@@ -48,7 +48,7 @@ def scrapeMovieCasts(moviesList,completeCount):
                 first = True
                 for actor,char in cast.items():
                     if not first:
-                        f.write(',')
+                        f.write('~~~')
                     f.write(actor+":"+char)
                     first=False
                 f.write('\n')
