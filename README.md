@@ -15,7 +15,7 @@ itself where it left off, attempting again and again
 until all ~137K movies have been read.
 
 NOTE: This is a simple scraper.  
-It will take over 24 hours (probably more than 30 hours) 
+It will take over 24 hours (it took about 26 hours for me) 
 to complete the entire scraping process.  I could have 
 had this threaded and would take a significantly shorter
 amount of time.  However, then it wouldn't be a "simple"
